@@ -1,0 +1,3 @@
+O que é Git
+
+Sistema de controle de versão de arquivos. Possibilita que várias pessoas simultâneamente em um projeto sem que as altrações sejam sobrescritas.
