@@ -5,3 +5,5 @@ Desafio de projeto bootcamp decolatech 3a edição
 
 - O Que é
 - Comandos Iniciais
+- Resolver conflitos
+
