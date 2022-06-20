@@ -1,0 +1,1 @@
+Quando acontecer um conflito no caso de outra pessoa modificar na mesma linha o arquivo, o git vai pedir pra baixar a última versão e decidir qual será usado. Para isso será usado o comando -git pull origin main- que baixa o repositório do github.
