@@ -1,0 +1,27 @@
+Comandos Iniciais
+
+Windows:
+
+Cd - entrar no diretório
+Cd. - retornar do diretório
+ls - listar
+mkdir - criar diretório/pasta
+rm -rf - apagar diretório/pasta
+
+git init - iniciar o git dentro de uma pasta/criar um repositório
+-a - mostrar arquivos ocultos
+git config --global user.email "email" - Configurar e-mail
+git config --global user.name "nome" - Configurar username
+git add - adicionar todo o conteúdo da pasta ao repositório
+git commit -m "descrição" - criar o commit
+git status - mostra o status dos arquivos
+mv <nome do arquivo> ./ nome da pasta - mover arquivos
+echo> - criar um arquivo
+git config --list - lista as configurações do seu git
+git config --global --unset user.email - limpa a configuração de email
+git config --global --unset user.name - limpa a configuração de nome
+git remote add origin <url> - adicionar o repositório local ao remoto
+git remote -v - listar os repositórios remotos cadastrados 
+git push origin main - envia o repositorio local para o remoto
+git pull origin main - pega o repositório remoto e leva para o local
+git clone <url> - baixar repositório do github
